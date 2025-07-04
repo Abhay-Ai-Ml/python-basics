@@ -1,3 +1,3 @@
 # python-basics
 python basic questions
-<br> i am cs student
+<br> i am cs stude
